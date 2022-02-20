@@ -1,2 +1,2 @@
 # learning-forever
-this is my first time in git-hib, wish me all the best!! 
+This is my first time in git-hub, wish me all the best!! 
